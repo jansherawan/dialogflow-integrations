@@ -31,9 +31,9 @@ app.use(express.json());
 //Upon closure the webhook is removed from spark
 
 //Insert your values here
-const sparkAccessToken ="NzJmODk3YTEtMmJkZC00NTNiLWFhMjMtMjU3ZDZjNmQ5ZWMwYTFiYzg2NmItMGUz_PF84_0d882151-70b4-4264-a09c-4a599e4494b1";
+const sparkAccessToken ="ZDM1NDIxM2YtM2M0Yi00NTI1LThmMmUtNDA1NzM1YjhlODQxOTkxNTlmZWItMDQ1_PF84_0d882151-70b4-4264-a09c-4a599e4494b1";
 const targetUrl = 'xxxxx';
-const projectId = 'uccagent-niiw';
+const projectId = 'uccbot-dlbj';
 
 const sessionClient = new dialogflowSessionClient(projectId);
 
